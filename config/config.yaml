@@ -233,7 +233,7 @@ notification:
   # 推送渠道配置
   channels:
     feishu:
-      webhook_url: "https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=b93nde56-c414-4ed7-bc1b-6f1dd43b28de"                 # 飞书机器人 webhook URL
+      webhook_url: "https://www.feishu.cn/flow/api/trigger-webhook/974505d6246e779dc6fa8165d35d6c13"                 # 飞书机器人 webhook URL
       
 
     dingtalk:
